@@ -4,7 +4,8 @@ A simple question-answering system built using IBM Watson's NLP services.
 
 ## Overview
 
-In this project, you will use IBM Watson's NLP Services to create a simple question-answering system. You will first use the Discovery service to pre-process a document collection and extract relevant information. Then you will use the Conversation service to build a natural language interface that can respond to questions.
+In this project, I will use IBM Watson's NLP Services to create a simple question-answering system. 
+I will first use the Discovery service to pre-process a document collection and extract relevant information. Then I will use the Conversation service to build a natural language interface that can respond to questions.
 
 ## Getting Started
 
